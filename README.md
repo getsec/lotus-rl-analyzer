@@ -13,6 +13,9 @@ source .venv/bin/activate
 # install depends
 pip install -r requirements.txt
 
+# Copy over .env.example to .env
+# Add your ballchasing API key to the file.
+
 # run app
 python main.py
 ```
