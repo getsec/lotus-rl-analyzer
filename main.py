@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 from pandas import json_normalize
 
 import ballchasing
-from src.config_loader import load_yaml
-from src.lotus import GameData
+from ballchasing.config_loader import load_yaml
+from ballchasing.lotus import GameData
 
 player_map = load_yaml("player_map.yaml")
 
