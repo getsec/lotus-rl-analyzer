@@ -1,11 +1,22 @@
 teams:
-  red_lotus:
-    - deadbeat: 76561198169250295
-    - other: 76561198169250295
-    - other: 76561198169250295
-  blue_lotus:
-    - same_thing: 1234
-    - player2: 123123
-    - player3: 2312312
+  l8_nirvana_us:
+    Dave: 76561198147545404
+    Lock: 76561198832732509
+    Happy: 76561198376718102
 
-      
+  l8_nirvana_can:
+    Sleepy: 76561198179499362
+    Garlic: c5026d752bc546c58fedb21bf3cd1c6c
+    Jaw: 76561199047964745
+
+  l8_zenith_us:
+    Cloud: 76561198352320795
+    Speed: 76561198413993679
+    Silk: 76561198885334892
+
+  l8_zenith_cam:
+    Catman: 76561198807275226
+    Jhn: 76561199062975842
+    Kylar: 76561199053878748
+    Sayzio: 76561198284776097
+
