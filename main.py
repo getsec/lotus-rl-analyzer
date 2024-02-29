@@ -86,6 +86,8 @@ if __name__ == "__main__":
                             time_slow_speed=content["stats"]["movement"][
                                 "time_slow_speed"
                             ],
+                            demo_inflicted=content["stats"]["demo"]["inflicted"],
+                            demo_taken=content["stats"]["demo"]["taken"],
                         )
                     )
                     # all_player_data.append(u)
