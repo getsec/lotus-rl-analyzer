@@ -29,3 +29,7 @@ class GameData:
     time_supersonic_speed: float
     time_boost_speed: float
     time_slow_speed: float
+
+    #demo
+    demo_inflicted: int = 0
+    demo_taken: int = 0
